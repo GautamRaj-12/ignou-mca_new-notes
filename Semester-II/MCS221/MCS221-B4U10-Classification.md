@@ -106,7 +106,8 @@ Consider a dataset of movies with IMDb ratings, user reviews, and genres:
    - **Calculate Euclidean Distances:**
       - Calculated distances to each movie in the dataset.
 
-    ![Calculating Eucledian Distance](eucledian-distance.png)
+    ![Calculating Eucledian Distance of Interstellar](https://github.com/GautamRaj-12/ignou-mca_new-notes/assets/64408989/699f4e1d-5059-415c-8dbb-7950cf3f359b)
+
       ```plaintext
       Distances: [66, 152, 154, 217, 563]
       ```
@@ -136,6 +137,8 @@ Consider a dataset of movies with IMDb ratings, user reviews, and genres:
 3. **For the New Movie ("Avatar"):**
    - **Calculate Euclidean Distances:**
       - Calculated distances to each movie in the dataset.
+
+      ![calculating eucledean distance of Avatar](https://github.com/GautamRaj-12/ignou-mca_new-notes/assets/64408989/98c9c000-d07e-40ac-9263-e6befce6e737)
 
       ```plaintext
       Distances: [101, 104, 115, 252, 464]
